@@ -21,4 +21,11 @@ randomResponses.getKeys();
 // Retrieve a random response
 randomResponses.getRandomResponse('OK');
 ```
+
 To see it in action, check out [the example](http://htmlpreview.github.com/?https://github.com/nathantreid/RandomResponses/blob/master/development/example.html) or [the tests](http://htmlpreview.github.com/?https://github.com/nathantreid/RandomResponses/blob/master/development/tests/tests.html). 
+
+Example Screenshots 
+
+![Screenshot 1](https://raw.github.com/nathantreid/RandomResponses/master/development/example1.png)
+
+![Screenshot 2](https://raw.github.com/nathantreid/RandomResponses/master/development/example2.png)
